@@ -413,8 +413,8 @@ Rainbow:
         brne rainbow_loop
 
     pop colorB
-    pop colorR
     pop colorG
+    pop colorR
     pop data
     pop temp
 ret
